@@ -6,15 +6,20 @@
 Welcome to mybook's documentation!
 ==================================
 
+Welcome to the documentation for version |version|
+
+Here is the leanring record of sphinx, 
+
+.. rst-class:: center
+.. rst-class:: index_links
+  
+    :ref:``Open Github`` `<https://github.com/puck-shen/mybook.git>`
+
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   
+  
+   self   
+   get-started/index
